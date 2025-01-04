@@ -47,7 +47,7 @@ const Home = () => {
     // dangerouslySetInnerHTML={{__html: span1}}
 
     return (
-        <div className='container'>
+        <div className='container' style={{ backgroundImage: 'url(https://cdn.dribbble.com/users/1003944/screenshots/15741863/media/e7c05a6423abe7506c5067508cb8a64b.gif?resize=400x0)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
             <div className='bubbles'>
             </div>
             <div className="homePageWrapper">
@@ -107,7 +107,7 @@ const Home = () => {
                 </div>
                 <footer>
                     <h4 className='footerText'>
-                        Built By THE TEAM OF 4.
+                        Prashant | 2023
                     </h4>
                 </footer>
             </div>

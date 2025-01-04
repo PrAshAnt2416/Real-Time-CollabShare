@@ -9,24 +9,10 @@ import EditorPage from './pages/EditorPage';
 
 function App() {
    
-
-
-
     return (
         
-
-        
-
-
-
-
-
            <div>
-
-
-
-
-                <Toaster
+              <Toaster
                     position="top-right"
                     toastOptions={{
                         success: {
