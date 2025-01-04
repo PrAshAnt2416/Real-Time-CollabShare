@@ -105,8 +105,8 @@ const Home = () => {
                         </span>
                     </div>
                 </div>
-                <footer>
-                    <h4 className='footerText'>
+                <footer className = 'footerText'style={{ color: 'black' }}>
+                    <h4 >
                         Prashant | 2023
                     </h4>
                 </footer>
